@@ -5,7 +5,7 @@
 4. [Lab 04](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O4.ipynb): 21/08/25
 5. [Lab 05](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O5.ipynb): 28/08/25
 6. [Lab 06](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O6.ipynb): 04/09/25
-7. [Lab 07]():
+7. [Lab 07](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O7.ipynb): 11/09/25
 8. [Lab 08]():
 9. [Lab 09]():
 10. [Lab 10]():
