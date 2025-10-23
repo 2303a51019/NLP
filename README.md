@@ -8,4 +8,8 @@
 7. [Lab 07](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O7.ipynb): 11/09/25
 8. [Lab 08](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O8.ipynb): 25/09/25
 9. [Lab 09](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_O9.ipynb): 08/10/25
-10. [Lab 10](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_10.ipynb):
+10. [Lab 10](https://github.com/2303a51019/NLP/blob/main/NLP_LAB_10.ipynb): 23/10/25
+11. [Lab 11]():30/10/25
+12. [Lab 12]():06/11/25
+13. [Lab 13]():13/11/25
+14. [Lab 14 :: Project Submission]():20/11/25
