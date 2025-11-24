@@ -12,4 +12,4 @@
 11. [Lab 11]():30/10/25 Holiday (Due to heaavy rain)
 12. [Lab 12]():06/11/25
 13. [Lab 13]():13/11/25
-14. [Lab 14 :: Project Submission]():20/11/25
+14. [Lab 14 ]:: Project Submission]():20/11/25
